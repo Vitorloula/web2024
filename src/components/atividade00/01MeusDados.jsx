@@ -1,15 +1,3 @@
-import React from "react";
-
-// function MeusDados() {
-//   return (
-//     <>
-//       <h1 style={{color: 'green'}}>Vitor Loula Silva</h1>
-//       <h1>Engenharia de Software</h1>
-//       <h1>UFC-Quixadá</h1>
-//     </>
-//   )
-// }
-
 // const MeusDados = () => {
 //   return (
 //     <>
@@ -33,12 +21,13 @@ import React from "react";
 // }
 
 const MeusDados = () => (
-  <div>
-    <h1 style={{color: 'Red'}}>Pedro Henrique</h1>
-    <h1>Engenharia de Software</h1>
-    <h1>UFC-Quixadá</h1>
-
-  </div>
-);
-
-export default MeusDados;
+    <div>
+      <h1 style={{color: 'Red'}}>Pedro Henrique</h1>
+      <h1>Engenharia de Software</h1>
+      <h1>UFC-Quixadá</h1>
+  
+    </div>
+  );
+  
+  export default MeusDados;
+  
